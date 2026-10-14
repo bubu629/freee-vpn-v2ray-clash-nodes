@@ -9,7 +9,7 @@
 ### 🚀 专属订阅链接
 
 > **Clash / V2ray / 小火箭 通用订阅地址：**  
-> `https://www.haovpn.xyz/s/01046da34d021c1d30c723be5092070b`
+> `https://node.lovehk.xyz/s/01046da34d021c1d30c723be5092070b`
 如果订阅链接上节点没有刷新或者无法使用，请点击 更新当前组订阅 获取最新节点。
 ---
 
@@ -42,7 +42,7 @@ High-speed, stable, and uncapped proxy nodes tailored for developers, researcher
 > 
 > 🔗 **Official Portal**: [Register at haovpn.xyz](https://haovpn.xyz) *(Use Invite Code: `cbT7Rfxg`)*[cite: 3]  
 > 📥 **Direct Test Subscription**:  
-> `https://www.haovpn.xyz/s/01046da34d021c1d30c723be5092070b`[cite: 1]
+> `https://node.lovehk.xyz/s/01046da34d021c1d30c723be5092070b`[cite: 1]
 
 ---
 
