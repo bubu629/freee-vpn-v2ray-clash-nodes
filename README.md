@@ -7,9 +7,12 @@
 ---
 官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
 ### 🚀 专属订阅链接
-
+* Shadowsocks，* VMess，* Trojan， * Hysteria，* VLess
+ * TUIC，* SOCKS，* Naive，* HTTP，* Mieru，* AnyTLS
 > **Clash / V2ray / 小火箭 通用订阅地址：**  
-> `https://node.lovehk.xyz/s/01046da34d021c1d30c723be5092070b`
+> * Shadowsocks，* VMess，* Trojan， * Hysteria，* VLess
+ * TUIC，* SOCKS，* Naive，* HTTP，* Mieru，* AnyTLS
+ * `https://node.lovehk.xyz/s/01046da34d021c1d30c723be5092070b`
 如果订阅链接上节点没有刷新或者无法使用，请点击 更新当前组订阅 获取最新节点。
 ---
 官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
