@@ -4,7 +4,8 @@
 
 本仓库收集并分享长期可用的免费高速节点，定期维护更新，适合学术查资料、开发测试、日常浏览使用。
 如果订阅链接上节点没有刷新或者无法使用，请点击 更新当前组订阅 获取最新节点。
----
+---> 🚀 **免翻墙在线一键配置工具站**：[点击打开 Web 客户端](https://haovpnxyz-portal-h2cqf0uzv-bancheungs-projects.vercel.app)  
+> 电脑/手机浏览器免安装打开即用，支持一键唤醒 Clash / 小火箭自动导入，免费领 200G 独立节点！
 官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
 ### 🚀 专属订阅链接
 * Shadowsocks，* VMess，* Trojan， * Hysteria，* VLess
@@ -26,7 +27,8 @@
 * 请遵守当地法律法规。
 * 节点禁止用于 BT 下载、网络扫描及大流量滥用行为。
 *
----
+---> 🚀 **免翻墙在线一键配置工具站**：[点击打开 Web 客户端](https://haovpnxyz-portal-h2cqf0uzv-bancheungs-projects.vercel.app)  
+> 电脑/手机浏览器免安装打开即用，支持一键唤醒 Clash / 小火箭自动导入，免费领 200G 独立节点！
 
 # 🌐 Free High-Speed Proxy Nodes & Developer Rewards (Daily Updated)
 
