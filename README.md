@@ -18,11 +18,11 @@
 ---
 官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
 ### 🌐 官网与更多节点
-* **官方网站**：[haovpn.xyz](https://haovpn.xyz) （每日签到可领取高速流量及专线节点）
+* **官方网站**：[haovpn.xyz](https://haovpn.xyz) （每日签到可领取高速流量及专线节点）推荐直接注册会员，里面有免费套餐可以使用。体验订阅链接使用人数过多，会经常失效，请直接注册会员。
 * **备用发布页**：防止域名污染，请收藏本 GitHub 仓库
 如果订阅链接上节点没有刷新或者无法使用，请点击 更新当前组订阅 获取最新节点。
 ---官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
-
+推荐直接注册会员，里面有免费套餐可以使用。体验订阅链接使用人数过多，会经常失效，请直接注册会员。
 ### ⚠️ 使用须知
 * 请遵守当地法律法规。
 * 节点禁止用于 BT 下载、网络扫描及大流量滥用行为。
@@ -34,7 +34,7 @@
 
 High-speed, stable, and uncapped proxy nodes tailored for developers, researchers, and global network testing. Seamlessly compatible with **Clash, Sing-box, V2Ray, Xray, and Shadowrocket**[cite: 1, 3].
 
----
+---推荐直接注册会员，里面有免费套餐可以使用。体验订阅链接使用人数过多，会经常失效，请直接注册会员。
 
 > ### 🎁 Exclusive Developer Offer: Claim 200 GB Free High-Speed Traffic
 > 
